@@ -1,0 +1,4 @@
+xlrd
+openpyxl
+statsmodels==0.13.5
+statsmodels
